@@ -1,5 +1,5 @@
 # PRODIGY_TrackCode_TASKNUMBER1
-Task 01 - Data Visualization
+<B>Task 01 - Data Visualization<B>
 
 This project is part of my Data Science Internship.
 
