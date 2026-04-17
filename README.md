@@ -10,13 +10,17 @@ This project is part of my Data Science Internship.
 🔹 Tools Used :Python ,Pandas ,Matplotlib,Seaborn
 
 🔹 What I Did :
+
 Loaded and cleaned dataset
-Selected relevant columns
-Created a bar chart of top 10 countries with highest population growth
+
+   Selected relevant columns
+
+   Created a bar chart of top 10 countries with highest population growth
 
 🔹 Output :
 Bar chart showing population growth comparison
 
 🔹 Learning Outcome :
 Understood categorical vs continuous variables
+
 Learned data visualization techniques
