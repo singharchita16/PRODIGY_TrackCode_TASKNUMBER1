@@ -22,5 +22,5 @@ Bar chart showing population growth comparison
 
 🔹 Learning Outcome :
 Understood categorical vs continuous variables
-
+<br>
 Learned data visualization techniques
